@@ -1,4 +1,3 @@
-<img width="1021" height="597" alt="image" src="https://github.com/user-attachments/assets/80f1f26f-b1c6-44c2-93f1-8cce5ba0a460" /># EXPERIMENT--06-IoT-Based-Relay-Control-System-Using-LoRaWAN-and-Application-Server
 ## Aim
 To configure a LoRaWAN end device and monitor IR sensor data using a network server and dashboard visualization.
 
